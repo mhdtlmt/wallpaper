@@ -1,0 +1,1 @@
+<view class="common-title data-v-43a5d97b"><view class="name data-v-43a5d97b"><block wx:if="{{$slots.name}}"><slot name="name"></slot></block><block wx:else>名称</block></view><view class="custom data-v-43a5d97b"><block wx:if="{{$slots.custom}}"><slot name="custom"></slot></block><block wx:else>自定义</block></view></view>
